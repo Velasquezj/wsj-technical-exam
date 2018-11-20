@@ -1,8 +1,8 @@
-Welcome to the WSJ Data Lab takehome exam. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to john.wiley@dowjones.com within one week of receiving the exam.
+Welcome to the WSJ Data Science & Analytics takehome exam for the membership team. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to john.wiley@dowjones.com within one week of receiving the exam.
 
 ## Scenario
 
-The WSJ Data Lab is helping design a campaign to target attendees of the upcoming [SXSW](https://www.sxsw.com/) festival in 2019. The team would like to better understand website traffic during the most recent SXSW festival (March 2018) to inform what type of content to promote in 2019.
+Imagine our team is helping design a campaign to target attendees of the upcoming [SXSW](https://www.sxsw.com/) festival in 2019. The team would like to better understand website traffic during the most recent SXSW festival (March 2018) to inform what type of content to promote in 2019.
 
 The data in `data.csv` is a sample of website traffic to [wsj.com](https://www.wsj.com/) from first-time visitors who are non-subscribers in the Austin, Texas area (based on IP address). 
 
