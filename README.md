@@ -15,15 +15,15 @@ The objective is to identify which content will turn first-time visitors into lo
 | Column Name     | Description       |
 | --------------- | ----------------- |
 | customerID | unique customer ID
-| firstVisitDate | Date and time of first visit
-| secondVisitDate | Date and time of second visit, if any
-| articleID | unique ID of the article read on the first visit
+| firstVisitDate | Date and time of customer's first visit
+| secondVisitDate | Date and time of customer's second visit, if any
+| articleID | unique ID of the article read on the customer's the first visit
 | section | section of the article read on the first visit
 | author | author(s) of the article read on the first visit
 | headline | headline of the article read on the first visit
 | topicKeywords | topic keywords in article read on the first visit
-| totalVisits | total visits to-date since `firstVisitDate`
-| wordCount | word count of the article
+| totalVisits | the customer's total visits to-date since `firstVisitDate`
+| wordCount | word count of the customer's first article
 | videoCount | number of videos in article
 
 
@@ -35,7 +35,7 @@ The objective is to identify which content will turn first-time visitors into lo
 
 3. Based on this data, would you choose to promote a Tech story or a Markets story on social media? Why?
 
-4. Create a visualization exploring the relationship between content characteristics (section, author, keywords etc...) and returning visitors. This is an open-ended task. Briefly describe the visualization and the insight.
+4. Create a visualization exploring the relationship between any of the content characteristics (such as section, author, keywords etc...) and returning visitors. This is an open-ended task. Briefly describe the visualization and the insight.
 
 5. Create a simple model predicting the likelihood of a first-time visitor returning.
 
