@@ -1,4 +1,4 @@
-Welcome to the WSJ Data Science & Analytics takehome exam for the membership team. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to john.wiley@dowjones.com within one week of receiving the exam.
+Welcome to the WSJ Data Science & Analytics takehome exam for the membership team. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to john.wiley@dowjones.com within three days of receiving the exam.
 
 ## Scenario
 
